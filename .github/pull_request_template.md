@@ -1,3 +1,3 @@
 Go to Preview and select template: 
 * [A](?expand=1&template=template_a.md)
-* [A](?expand=1&template=template_b.md)
+* [B](?template=template_b.md)
